@@ -28,8 +28,9 @@
 
 #include "chip8.h"
 
-void main() {
-
+int main() {
+    printf("Hello, world! I'm going to be an interpreter when I grow up!");
+    return 0;
 }
 
 void emulation_main_loop() {

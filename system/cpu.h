@@ -1,5 +1,5 @@
 #ifndef CHIP8_SYSTEM_CPU_H
-#define CHIP8_SYSTEM_CPU_C
+#define CHIP8_SYSTEM_CPU_H
 
 typedef struct {
     uint8_t memory[4096];
