@@ -1,2 +1,2 @@
-# chip-8-c
-Chip-8 interpreter written in C
+# Chip-8 C
+Re-implementation of (https://github.com/jctp/chip-8)[this] CHIP-8 interpreter in C.

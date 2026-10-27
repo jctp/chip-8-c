@@ -1,0 +1,5 @@
+#ifndef CHIP8_SYSTEM_MEMORY_H
+#define CHIP8_SYSTEM_MEMORY_H
+
+#endif
+

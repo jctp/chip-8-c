@@ -1,0 +1,5 @@
+#ifndef CHIP8_DISPATCHER_H
+#define CHIP8_DISPATCHER_H
+
+#endif
+

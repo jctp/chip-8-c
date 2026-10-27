@@ -1,0 +1,5 @@
+#ifndef CHIP8_SYSTEM_DISPLAY_H
+#define CHIP8_SYSTEM_DISPLAY_H
+
+#endif
+
